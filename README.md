@@ -26,7 +26,7 @@ Raznik Co. (Intl.) trades in the following goods, services, articles and materia
 15. miscellaneous
 
 ## Categories-FINE
-[Hover to FINE categories](./all)
+[Hover to FINE categories](./All)
 
 
 /* Raznik Co. */
