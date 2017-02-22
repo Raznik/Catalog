@@ -41,21 +41,34 @@ Raznik Co. (Intl.) trades in the following goods, services, articles and materia
   * Prawns . . . 
 * Processed Fishery & derivatives
 ## Granite
+
 ## Agro Products
 * Dry
   * Nuts
 * Raw
 * Processed
   * 
+
 ## Minerals (raw Materials)
+
 ## Chemicals
+
 ## Fabric / Textiles
+
 ## Heavy Machinery
+
 ## Raw Iron / Steel / Metals
+
 ## recycled / waste
+
 ## Indian Handicrafts
+
 ## gardening / house-making
+
 ## Cosmetics / Medicinal 
+
 ## Ayurvedic / Organic
+
 ## Indian Home-branded Electronics
+
 ## miscellaneous
